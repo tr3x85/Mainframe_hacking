@@ -1,0 +1,4 @@
+Passwords on z/OS are usually stored in the RACF database in a hashed format.
+RACF handles every authentication and control access issued on z/OS.
+Filenames on z/OS follow a DNS-like naming convention: a succession of qualifiers separated by dots. (e.g. SYS2.RACFDS)
+APF libraries can request the highest privileges and perform any action on the system (authorised mode)
