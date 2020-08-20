@@ -1,4 +1,4 @@
-Passwords on z/OS are usually stored in the RACF database in a hashed format.
+Passwords on z/OS are usually stored in the RACF database in a hashed format, by default stored using the DES algorithm (limited to 56 bits’ entropy) with weak password policies (no mixed characters, 3 special characters, etc.)
 RACF handles every authentication and control access issued on z/OS.
 Filenames on z/OS follow a DNS-like naming convention: a succession of qualifiers separated by dots. (e.g. SYS2.RACFDS)
 APF libraries can request the highest privileges and perform any action on the system (authorised mode)
