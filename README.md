@@ -31,6 +31,7 @@ Table of Contents
 * [IBM 3270 terminal emulator for the X Window System and Windows](http://x3270.bgp.nu/)
 
 ## [↑](#table-of-contents) Online Resources
+* [Another consolidated Mainframe hacking resources](https://github.com/samanL33T/Awesome-Mainframe-Hacking)
 * [Cracking the RACF database](https://mainframed767.tumblr.com/post/43072129477/how-to-copy-the-racf-database-off-the-mainframe)
 * [Mainframe hacking video demo 1](https://www.youtube.com/watch?v=SjtyifWTqmc)
 * [Defcon 23 - Mainframe hacking video demo 2](https://www.youtube.com/watch?v=LgmqiugpVyU)
