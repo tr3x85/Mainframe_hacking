@@ -16,7 +16,7 @@ Table of Contents
 * [Tool to take screenshots of CICS Transactions](https://github.com/ayoul3/cicsshot)
 * [Scripts, JCL and programs to use for z/OS Mainframe security auditing](https://github.com/mainframed/Mainframed)
 * [NMAP Mainframe scripts for tn3270](https://github.com/zedsec390/NMAP)
-* [Mainframe shell payloads] (https://github.com/zedsec390/shells-payloads)
+* [Mainframe shell payloads](https://github.com/zedsec390/shells-payloads)
 * [Proxy tool](https://github.com/sensepost/birp)
 
 
