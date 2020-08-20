@@ -1,0 +1,2 @@
+Passwords on z/OS are usually stored in the RACF database in a hashed format.
+RACF handles every authentication and control access issued on z/OS.
