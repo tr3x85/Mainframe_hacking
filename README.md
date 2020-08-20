@@ -38,5 +38,3 @@ Table of Contents
 
 ## [↑](#table-of-contents) Training
 * [EvilMainFrame](https://www.evilmainframe.com/)
-
-## [↑](#table-of-contents) Certifications
