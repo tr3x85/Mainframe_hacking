@@ -30,7 +30,10 @@ Table of Contents
 
 ## [↑](#table-of-contents) Online Resources
 * [Cracking the RACF database](https://mainframed767.tumblr.com/post/43072129477/how-to-copy-the-racf-database-off-the-mainframe)
+* [Mainframe hacking video demo](https://www.youtube.com/watch?v=SjtyifWTqmc)
+* [Defcon 22 - From-root-to-SPECIAL-Hacking-IBM-Mainframes](https://www.defcon.org/images/defcon-22/dc-22-presentations/Young/DEFCON-22-Philip-Young-From-root-to-SPECIAL-Hacking-IBM-Mainframes-Updated.pdf)
 
-## [↑](#table-of-contents) Training ( Free )
+## [↑](#table-of-contents) Training
+* [EvilMainFrame](https://www.evilmainframe.com/)
 
 ## [↑](#table-of-contents) Certifications
