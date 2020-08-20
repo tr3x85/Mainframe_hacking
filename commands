@@ -1,2 +1,3 @@
 LU - To list current privileges of login user
 RVARY LIST - To locate the RACF database
+IND $FILE(menu file > transfer file) - To upload file to the Mainframe
