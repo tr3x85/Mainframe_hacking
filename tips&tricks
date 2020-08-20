@@ -6,3 +6,4 @@ A typical mainframe can easily have thousands of users. We will therefore only t
   - OPERATIONS: assigned to users or service accounts to access any data regardless of the security rules in place
   - PROTECTED: usually assigned to service accounts (databases, middlewares, etc.) to restrict their ability to open interactive sessions
 Customer Information Control System (CICS) is a middleware used to host interactive applications on a Mainframe
+Files in home directory of users are indexed VSAM datasets: binary files holding indexed data. We need to convert them to flat files before downloading them using IND$FILE or FTP
