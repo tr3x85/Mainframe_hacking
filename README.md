@@ -4,9 +4,9 @@ Consolidated resources for mainframe hacking.
 Table of Contents
 =================
 
- * [z/OS](#-Tools-z/OS)
- * [Misc](#-Emulators)
- * [Ebooks](#-OnlineResources)
+ * [PT Tools for z/OS](#-Tools-z/OS)
+ * [Emulators](#-Emulators)
+ * [Online Resources](#-OnlineResources)
  * [Training](#-Training)
 
 ## [↑](#table-of-contents) PT tools for z/OS
