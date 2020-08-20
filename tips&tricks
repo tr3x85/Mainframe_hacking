@@ -5,3 +5,4 @@ APF libraries can request the highest privileges and perform any action on the s
 A typical mainframe can easily have thousands of users. We will therefore only target users with interesting attributes:
   - OPERATIONS: assigned to users or service accounts to access any data regardless of the security rules in place
   - PROTECTED: usually assigned to service accounts (databases, middlewares, etc.) to restrict their ability to open interactive sessions
+Customer Information Control System (CICS) is a middleware used to host interactive applications on a Mainframe
