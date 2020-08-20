@@ -27,7 +27,8 @@ Table of Contents
 * [A hacked 3270 emulator for Windows (WC3270 thick client)](https://github.com/ayoul3/wc3270_hacked)
 * [IBM 3270 terminal emulator for the X Window System and Windows](http://x3270.bgp.nu/)
 
-## [↑](#table-of-contents) Ebooks
+## [↑](#table-of-contents) Online Resources
+* [Cracking the RACF database](https://mainframed767.tumblr.com/post/43072129477/how-to-copy-the-racf-database-off-the-mainframe)
 
 ## [↑](#table-of-contents) Training ( Free )
 
